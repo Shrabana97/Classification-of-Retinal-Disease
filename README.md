@@ -5,7 +5,7 @@
 * Sensitivity: 99%
 * Specificity: 99%
 ## Run in your own machine :
-* `git clone https://github.com/Shrabana97/Classification-of-retinal-disease.git`
-* `cd Classification-of-retinal-disease`
+* `git clone https://github.com/Shrabana97/Classification-of-Retinal-Disease.git`
+* `cd Classification-of-Retinal-Disease`
 * `pip3 install -r requirements.txt` (install required libraries)
 * `jupyter-notebook` (enjoy)
